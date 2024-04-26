@@ -1,4 +1,6 @@
 from playwright.sync_api import Page, expect
+from lib.book import *
+from lib.book_repository import *
 
 """
 We can list out all the books
